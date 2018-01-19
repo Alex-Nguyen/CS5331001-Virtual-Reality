@@ -1,4 +1,4 @@
-# CS5331-001:Virtual Reality
+# CS5331-001: Virtual Reality
 ## Personal Information
 
 Fullname: Vinh The Nguyen
