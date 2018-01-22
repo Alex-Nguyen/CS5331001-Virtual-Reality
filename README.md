@@ -10,4 +10,7 @@ Grad level: PhD student
 Major: Computer Science
 
 Nickname: Alex
+
 Sample: http://myweb.ttu.edu/vinhtngu/CS/
+
+Tutorial: http://davidscottlyons.com/threejs/presentations/frontporch14/#slide-0
