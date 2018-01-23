@@ -10,6 +10,7 @@ Grad level: PhD student
 Major: Computer Science
 
 Nickname: Alex
+HTML Editor: http://mrdoob.com/projects/htmleditor/
 
 Sample: http://myweb.ttu.edu/vinhtngu/CS/
 
