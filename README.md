@@ -10,10 +10,12 @@ Grad level: PhD student
 Major: Computer Science
 
 Nickname: Alex
-HTML Editor: http://mrdoob.com/projects/htmleditor/
+THREEJS Online: http://mrdoob.com/projects/htmleditor/
 
-TTU Showcase: https://alex-nguyen.github.io/CS5331001-Virtual-Reality/index.html
+THREEJS Editor: https://threejs.org/editor/
 
-Basic THREEJS Lecture: https://alex-nguyen.github.io/CS5331VRLecture/#slide-0
+TTU Show case: http://myweb.ttu.edu/vinhtngu/CS/
 
-Tutorial with Demo: http://myweb.ttu.edu/vinhtngu/cs5331vr/boilerplate.html#slide-0
+Basic knowledge tutorial: http://davidscottlyons.com/threejs/presentations/frontporch14/#slide-0
+
+Link for tutorial: https://alex-nguyen.github.io/CS5331001-Virtual-Reality/index.html
