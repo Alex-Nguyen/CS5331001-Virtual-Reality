@@ -16,7 +16,7 @@ THREEJS Editor: https://threejs.org/editor/
 
 TTU Show case: https://alex-nguyen.github.io/CS5331001-Virtual-Reality/index.html
 
-Basic knowledge tutorial: http://davidscottlyons.com/threejs/presentations/frontporch14/#slide-0
+Basic knowledge tutorial: https://alex-nguyen.github.io/CS5331VRLecture/#slide-0
 
 Link for tutorial: http://myweb.ttu.edu/vinhtngu/cs5331vr/boilerplate.html
 
