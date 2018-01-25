@@ -19,7 +19,11 @@ TTU Show case: https://alex-nguyen.github.io/CS5331001-Virtual-Reality/index.htm
 Basic knowledge tutorial: http://davidscottlyons.com/threejs/presentations/frontporch14/#slide-0
 
 Link for tutorial: http://myweb.ttu.edu/vinhtngu/cs5331vr/boilerplate.html
-Link for tutorial Part I: http://myweb.ttu.edu/vinhtngu/cs5331vr/part1.html
-Link for tutorial Part II: http://myweb.ttu.edu/vinhtngu/cs5331vr/part2.html
-Link for tutorial Part III: http://myweb.ttu.edu/vinhtngu/cs5331vr/part3.html
-Link for tutorial Part IV: http://myweb.ttu.edu/vinhtngu/cs5331vr/part4.html
+
+Link for tutorial Part 2: http://myweb.ttu.edu/vinhtngu/cs5331vr/part2.html
+
+Link for tutorial Part 3: http://myweb.ttu.edu/vinhtngu/cs5331vr/part3.html
+
+Link for tutorial Part 4: http://myweb.ttu.edu/vinhtngu/cs5331vr/part4.html
+
+Link for tutorial Part 5: http://myweb.ttu.edu/vinhtngu/cs5331vr/part5.html
