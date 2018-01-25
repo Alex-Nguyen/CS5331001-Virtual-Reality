@@ -1,20 +1,7 @@
 # CS5331-001: Virtual Reality
-## Personal Information
-
-Fullname: Vinh The Nguyen
-
-Email: vinh.nguyen@ttu.edu
-
-Grad level: PhD student
-
-Major: Computer Science
-
-Nickname: Alex
 THREEJS Online: http://mrdoob.com/projects/htmleditor/
 
 THREEJS Editor: https://threejs.org/editor/
-
-TTU Show case: https://alex-nguyen.github.io/CS5331001-Virtual-Reality/index.html
 
 Basic knowledge tutorial: https://alex-nguyen.github.io/CS5331VRLecture/#slide-0
 
